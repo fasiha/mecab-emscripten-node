@@ -1,0 +1,21 @@
+{
+  "name": "mecab-emscripten-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mecab.js",
+  "bin": "./mecab.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fasiha/mecab-emscripten-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/fasiha/mecab-emscripten-node/issues"
+  },
+  "homepage": "https://github.com/fasiha/mecab-emscripten-node#readme"
+}
